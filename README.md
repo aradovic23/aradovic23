@@ -5,7 +5,7 @@
 
 <h5 align="left">Connect with on Linkedin:</h5>
 <p align="left">
-  <a href="[https:/skillicons.dev](https://www.linkedin.com/in/aradovic23/)">
+  <a href="https://www.linkedin.com/in/aradovic23/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
