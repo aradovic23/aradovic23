@@ -13,7 +13,7 @@
 <h5 align="left">Technologies I use:</h5>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,next,react,vue,nuxt,tailwind,firebase,mongo,vite,prisma,sql,figma,sass" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,next,react,vue,nuxt,tailwind,firebase,mongo,vite,prisma,figma,sass" />
   </a>
 </p>
 
