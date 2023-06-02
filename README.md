@@ -1,7 +1,5 @@
-<h2 align="center">Hi, I'm Aleksa</h2>
-<h4 align="center">A Frontend developer based in Belgrade, Serbia</h4>
-<p>I assume you have already read how all developers like to solve problems; however, this is also true in my case. Prepare to read my short story. Why did I decide on programming? As previously stated, it is an opportunity for me to solve problems and create solutions by taking an individual and dedicated approach to each project with the goal of creating a product that will benefit the community, and the best part is that I will be able to do so in a team while also growing as an individual.
-</p>
+<h2 align="center">Hi, I'm Aleksa 👋🏻</h2>
+<h3 align="center">A Frontend developer based in Belgrade, Serbia</h3>
 
 <h5 align="left">Connect with on Linkedin:</h5>
 <p align="left">
