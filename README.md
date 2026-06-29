@@ -6,9 +6,5 @@
 </p>
 
 <p align="center">
-  TypeScript · React · Next.js · Vue · Nuxt · Tailwind
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aradovic23&layout=compact" alt="Top languages" />
+  TypeScript · React · Next.js · Vue · Nuxt · Tailwind · Astro · Tanstack 
 </p>
