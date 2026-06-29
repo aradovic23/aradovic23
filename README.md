@@ -10,6 +10,6 @@
 </p>
 
 <div align="center">
-<img src="https://ghstats.dev/api/card?username=aleksa-radovic-ananas&theme=catppuccin&show_ring=false&hide_title=true" alt="GitHub Stats Card" />  
+  <img src="https://ghstats.dev/api/card?username=aleksa-radovic-ananas&theme=catppuccin&show_icons=false&hide_title=true&hide=stars%2Ccommits%2Cprs%2Cissues%2Chours%2Cstreak%2Cfollowers%2Crepos" alt="GitHub Stats Card" />
 </div>
 
