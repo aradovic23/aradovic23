@@ -8,3 +8,5 @@
 <p align="center">
   TypeScript · React · Next.js · Vue · Nuxt · Tailwind · Astro · Tanstack 
 </p>
+
+<img src="https://ghstats.dev/api/card?username=aradovic23&theme=catppuccin&show_ring=false&hide_title=true" alt="GitHub Stats Card" />
